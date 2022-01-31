@@ -1,6 +1,6 @@
 
 export default function Image(){
     return (
-        <img src = "/Vishal.jpg" className = "photo" width = "100"/>    
+        <img src = "/pictures/Vishal.jpg" className = "photo" width = "100" alt = "Picture"/>    
     )
 }
