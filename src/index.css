@@ -6,10 +6,10 @@ html{
 }
 .holder{
   background: #1A1B21;
-  display: block;
   width: 370px;
   height: max-content;
-  position: absolute;
+  max-height: 200%;
+  position: relative;
   align-items: center;
   border-radius: 10px;
   top: 0;
